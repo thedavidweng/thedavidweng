@@ -19,7 +19,7 @@
 hi, i'm [David Weng](https://davidweng.tk/), a self-taught developer, photographer, video editor and a freelance designer.
 
 
-  <img align="right" alt="GIF" src="https://github.com/thedavidweng/thedavidweng/blob/master/小蓝.gif?raw=true" width="500" height="500" />
+  <img align="right" alt="GIF" src="https://github.com/thedavidweng/thedavidweng/blob/master/小蓝.gif?raw=true" width="400" height="400" />
   
 - 💼 any freelance work? do reach, [email](mailto:mail@davidweng.tk) :)
 - 💬 ask me about anything, i am happy to help;
