@@ -19,7 +19,7 @@
 Hi, I'm [David Weng](https://davidweng.tk/), a self-taught developer, photographer, video editor and a freelance designer.
 
 
-  <img align="right" alt="GIF" src="https://github.com/thedavidweng/thedavidweng/blob/master/小蓝.gif?raw=true" width="400" height="400" />
+<a href="https://app.daily.dev/davidweng"><img align="right" alt="David Weng's Dev Card" src="https://github.com/thedavidweng/thedavidweng/blob/master/devcard.svg" width="400" height="400" />
   
 - 💼 My Business Email [email](mailto:mail@davidweng.tk) :)
 - 💬 Ask me about anything;
@@ -56,3 +56,4 @@ if you like what i do, maybe consider buying me a coffee/tea
 Special thanks to [@abhisheknaiidu](https://github.com/abhisheknaiidu)
 
 <a href="https://app.daily.dev/davidweng"><img src="https://github.com/thedavidweng/thedavidweng/blob/master/devcard.svg" width="400" alt="David Weng's Dev Card"/></a>
+  <img align="right" alt="GIF" src="https://github.com/thedavidweng/thedavidweng/blob/master/小蓝.gif?raw=true" width="400" height="400" />
