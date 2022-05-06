@@ -54,6 +54,3 @@ if you like what i do, maybe consider buying me a coffee/tea
 <a href="https://www.buymeacoffee.com/thedavidweng" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 Special thanks to [@abhisheknaiidu](https://github.com/abhisheknaiidu)
-
-<a href="https://app.daily.dev/davidweng"><img src="https://github.com/thedavidweng/thedavidweng/blob/master/devcard.svg" width="400" alt="David Weng's Dev Card"/></a>
-  <img align="right" alt="GIF" src="https://github.com/thedavidweng/thedavidweng/blob/master/小蓝.gif?raw=true" width="400" height="400" />
