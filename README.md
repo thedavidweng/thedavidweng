@@ -36,7 +36,7 @@ Hi, I'm [David Weng](https://davidweng.tk/), a self-taught developer, photograph
 <!--START_SECTION:waka-->
 
 ```text
-Other        33 hrs 23 mins  ████████████████████████▒   96.99 %
+Other        21 hrs 48 mins  ████████████████████████░   95.46 %
 ```
 
 <!--END_SECTION:waka-->
