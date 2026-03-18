@@ -10,7 +10,7 @@ I am a Media Studies graduate based in Vancouver, blending content creation with
 
 ## Connect
 
-[Twitter](https://twitter.com/thedavidweng) · [LinkedIn](https://www.linkedin.com/in/thedavidweng) · [Instagram](https://www.instagram.com/thedavidweng) · [YouTube](https://www.youtube.com/@davyweng)
+[Twitter](https://twitter.com/thedavidweng) · [LinkedIn](https://www.linkedin.com/in/thedavidweng) · [Instagram](https://www.instagram.com/davidwengpro) · [YouTube](https://www.youtube.com/@davyweng)
 
 ## Support
 
