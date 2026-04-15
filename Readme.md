@@ -3,7 +3,7 @@
 Developer, designer, and content creator in Vancouver. Building open-source tools and code-first motion graphics.
 
 <p>
-  Current focus: <strong>OpenKara</strong>, creative tooling, and code-first motion work with Remotion.
+  Current focus: [OpenKara](https://github.com/thedavidweng/OpenKara/).
 </p>
 
 ## Tools
