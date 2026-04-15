@@ -1,10 +1,14 @@
-<h1>Hi, I'm David</h1>
+# Hi, I'm David
 
 Developer, designer, and content creator in Vancouver. Building open-source tools and code-first motion graphics.
 
-<p>
-  Current focus: [OpenKara](https://github.com/thedavidweng/OpenKara/).
-</p>
+Current focus: [OpenKara](https://github.com/thedavidweng/OpenKara/).
+
+## Metrics
+
+[![Introduction metrics](./github-metrics-introduction.svg)](https://github.com/thedavidweng)
+
+[![Languages metrics](./github-metrics-languages.svg)](https://github.com/thedavidweng)
 
 ## Tools
 
