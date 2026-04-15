@@ -1,8 +1,4 @@
-# David
-
 Developer, Designer, and Content Creator.
-
----
 
 ## About
 
