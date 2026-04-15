@@ -3,28 +3,13 @@
 Developer, designer, and content creator in Vancouver. Building open-source tools and code-first motion graphics.
 
 <p>
-  <a href="https://davidweng.eu"><img src="https://raw.githubusercontent.com/thedavidweng/thedavidweng/master/github-metrics-introduction.svg" alt=""></a>
-</p>
-
-<p>
-  <img src="https://raw.githubusercontent.com/thedavidweng/thedavidweng/master/github-metrics-languages.svg" alt="">
+  Current focus: <strong>OpenKara</strong>, creative tooling, and code-first motion work with Remotion.
 </p>
 
 ## Tools
 
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="rust" width="36" height="36"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="36" height="36"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="36" height="36"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" width="36" height="36"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="36" height="36"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="36" height="36"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="36" height="36"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="36" height="36"></td>
-  </tr>
-</table>
+`Tauri 2` · `Rust` · `TypeScript` · `React` · `Next.js` · `Remotion`
 
 ## Links
 
-[davidweng.eu](https://davidweng.eu/) · [X](https://twitter.com/thedavidweng) · [LinkedIn](https://www.linkedin.com/in/thedavidweng) · [YouTube](https://www.youtube.com/@davyweng)
+[Personal Homepage](https://thedavidweng.github.io/) · [Portfolio](https://davidweng.eu.org/) · [GitHub](https://github.com/thedavidweng) · [LinkedIn](https://www.linkedin.com/in/thedavidweng) · [Instagram](https://www.instagram.com/davidwengpro/) · [YouTube](https://www.youtube.com/@davyweng) · [X](https://twitter.com/thedavidweng) · [Buy Me a Coffee](https://buymeacoffee.com/thedavidweng)
