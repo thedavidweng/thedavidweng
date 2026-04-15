@@ -1,9 +1,9 @@
 <p>
-  <a href="https://davidweng.eu"><img src="https://raw.githubusercontent.com/thedavidweng/thedavidweng/main/github-metrics-introduction.svg" alt=""></a>
+  <a href="https://davidweng.eu"><img src="https://raw.githubusercontent.com/thedavidweng/thedavidweng/master/github-metrics-introduction.svg" alt=""></a>
 </p>
 
 <p>
-  <img src="https://raw.githubusercontent.com/thedavidweng/thedavidweng/main/github-metrics-habits.svg" alt="">
+  <img src="https://raw.githubusercontent.com/thedavidweng/thedavidweng/master/github-metrics-habits.svg" alt="">
 </p>
 
 <p>
