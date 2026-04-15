@@ -6,6 +6,10 @@ Developer, designer, and content creator in Vancouver. Building open-source tool
   <a href="https://davidweng.eu"><img src="https://raw.githubusercontent.com/thedavidweng/thedavidweng/master/github-metrics-introduction.svg" alt=""></a>
 </p>
 
+<p>
+  <img src="https://raw.githubusercontent.com/thedavidweng/thedavidweng/master/github-metrics-languages.svg" alt="">
+</p>
+
 ## Tools
 
 <p>
