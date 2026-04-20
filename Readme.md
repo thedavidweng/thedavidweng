@@ -6,7 +6,7 @@ Current focus: [OpenKara](https://github.com/thedavidweng/OpenKara/).
 
 ## Metrics
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/thedavidweng/svg?theme=light)](https://tokscale.ai/u/thedavidweng)
+[![Tokscale Stats](https://tokscale.ai/api/embed/thedavidweng/svg)](https://tokscale.ai/u/thedavidweng)
 
 ## Tools
 
