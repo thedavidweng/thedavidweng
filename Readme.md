@@ -1,4 +1,4 @@
-# Hi, I'm David
+## Hi, I'm David
 
 Developer, designer, and content creator in Vancouver. Building open-source tools and code-first motion graphics.
 
