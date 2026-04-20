@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="520" height="92" viewBox="0 0 520 92" role="img" aria-label="Introduction">
-  <rect x="0" y="0" width="520" height="92" rx="12" fill="#0d1117" />
-  <rect x="0.5" y="0.5" width="519" height="91" rx="11.5" fill="none" stroke="#30363d" />
-  <text x="22" y="28" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14" font-weight="700">Introduction</text>
-  <text x="22" y="50" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="600">Developer, designer, and content creator in Vancouver.</text>
-  <text x="22" y="70" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13">Building open-source tools and code-first motion graphics.</text>
-  <text x="336" y="50" fill="#58a6ff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="600">Current focus</text>
-  <text x="336" y="70" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13">OpenKara</text>
-</svg>
