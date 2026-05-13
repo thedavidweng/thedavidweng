@@ -252,7 +252,7 @@ jobs:
               head_sha: context.sha,
               details_url: `${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`,
               status: 'completed',
-              conclusion: '${{ needs.lint.result == 'success' && needs.test.result == 'success' ? 'success' : 'failure' }}',
+              conclusion: ${{ needs.lint.result == 'success' && needs.test.result == 'success' ? 'success' : 'failure' }},
               output: {
                 title: 'Quality Gate',
                 summary: 'All quality checks passed'
