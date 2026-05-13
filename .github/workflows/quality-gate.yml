@@ -3,7 +3,8 @@ on:
   push:
     branches: [master]
 jobs:
-  test:
+  audit:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "CI works"
+      - name: Audit dependencies
+        run: npm audit --audit-level=high
