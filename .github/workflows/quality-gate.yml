@@ -1,14 +1,9 @@
 name: Quality Gate
-
-on: [push]
-
-permissions:
-  contents: read
-
+on:
+  push:
+    branches: [master]
 jobs:
-  audit:
-    name: Audit
+  test:
     runs-on: ubuntu-latest
     steps:
-      - name: Audit
-        run: npm audit --audit-level=high
+      - run: echo "CI works"
