@@ -39,3 +39,4 @@ Desktop.ini
 
 # Local agent config (Hermes/Codex)
 .agents/
+.omx/
