@@ -2,7 +2,20 @@
 
 Developer, designer, and content creator in Vancouver. Building open-source tools and code-first motion graphics.
 
-Current focus: [OpenKara](https://github.com/thedavidweng/OpenKara/).
+### Projects
+
+- [OpenKara](https://github.com/thedavidweng/OpenKara) — Desktop karaoke app: on-device AI stem separation + synced lyrics for your local music library
+- [OpenLoop](https://github.com/thedavidweng/OpenLoop) — Desktop app for local ACE-Step music generation with prompt, lyrics, playback, and export
+- [monarchmoney-cli](https://github.com/thedavidweng/monarchmoney-cli) — Local, agent-friendly command-line tool for Monarch Money (Go)
+- [money](https://github.com/thedavidweng/money) — Local-first personal finance backend for AI agents and power users
+- [blog](https://github.com/thedavidweng/blog) — Static bilingual blog built with Astro 6, hosted on Cloudflare Pages
+
+### Contributed To
+
+- [wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt) — WeChat 4.0 database decryptor: memory key extraction, SQLCipher 4, real-time monitor
+- [wacli](https://github.com/openclaw/wacli) — WhatsApp CLI: sync, search, send
+- [koe](https://github.com/missuo/koe) — Zero-GUI macOS voice input: hotkey, speak, corrected text pasted into any app
+- [freellmapi](https://github.com/tashfeenahmed/freellmapi) — OpenAI-compatible proxy stacking free tiers of 16 LLM providers
 
 ### Metrics
 
@@ -19,7 +32,7 @@ Current focus: [OpenKara](https://github.com/thedavidweng/OpenKara/).
 
 ### Links
 
-[Personal Homepage](https://thedavidweng.github.io/) · [Portfolio](https://davidweng.eu.org/) 
+[Personal Homepage](https://thedavidweng.github.io/) · [Portfolio](https://davidweng.eu.org/)
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thedavidweng) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thedavidweng) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davidwengpro/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@davyweng) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/thedavidweng) [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/thedavidweng)
