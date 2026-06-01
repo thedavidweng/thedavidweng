@@ -14,6 +14,7 @@ Developer, designer, and content creator in Vancouver. Building open-source tool
 
 - [wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt) — WeChat 4.0 database decryptor: memory key extraction, SQLCipher 4, real-time monitor
 - [wacli](https://github.com/openclaw/wacli) — WhatsApp CLI: sync, search, send
+- [camel-k](https://github.com/apache/camel-k) — Apache Camel K: lightweight integration platform on Kubernetes
 - [koe](https://github.com/missuo/koe) — Zero-GUI macOS voice input: hotkey, speak, corrected text pasted into any app
 - [freellmapi](https://github.com/tashfeenahmed/freellmapi) — OpenAI-compatible proxy stacking free tiers of 16 LLM providers
 
