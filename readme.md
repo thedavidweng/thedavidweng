@@ -6,6 +6,7 @@ Developer, designer, and content creator in Vancouver. Building open-source tool
 
 - [OpenKara](https://github.com/thedavidweng/OpenKara) — Desktop karaoke app: on-device AI stem separation + synced lyrics for your local music library
 - [OpenLoop](https://github.com/thedavidweng/OpenLoop) — Desktop app for local ACE-Step music generation with prompt, lyrics, playback, and export
+- [flickr-cli](https://github.com/thedavidweng/flickr-cli) — Agent-friendly Flickr CLI: single-binary tool for photo management, backup, upload, and full API access (Go)
 - [monarchmoney-cli](https://github.com/thedavidweng/monarchmoney-cli) — Local, agent-friendly command-line tool for Monarch Money (Go)
 - [money](https://github.com/thedavidweng/money) — Local-first personal finance backend for AI agents and power users
 - [blog](https://github.com/thedavidweng/blog) — Static bilingual blog built with Astro 6, hosted on Cloudflare Pages
