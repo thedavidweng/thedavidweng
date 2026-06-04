@@ -13,6 +13,7 @@ Developer, designer, and content creator in Vancouver. Building open-source tool
 
 ### Contributed To
 
+- [cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) — Desktop TUI for switching AI model providers with API key management (Rust)
 - [wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt) — WeChat 4.0 database decryptor: memory key extraction, SQLCipher 4, real-time monitor
 - [wacli](https://github.com/openclaw/wacli) — WhatsApp CLI: sync, search, send
 - [camel-k](https://github.com/apache/camel-k) — Apache Camel K: lightweight integration platform on Kubernetes
