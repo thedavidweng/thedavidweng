@@ -4,21 +4,23 @@ Developer, designer, and content creator in Vancouver. Building open-source tool
 
 ### Projects
 
-- [OpenKara](https://github.com/thedavidweng/OpenKara) — Desktop karaoke app: on-device AI stem separation + synced lyrics for your local music library
-- [OpenLoop](https://github.com/thedavidweng/OpenLoop) — Desktop app for local ACE-Step music generation with prompt, lyrics, playback, and export
-- [flickr-cli](https://github.com/thedavidweng/flickr-cli) — Flickr CLI with JSON-first output, 47 commands, and safety gates for photo management, upload, and backup (Go)
-- [monarchmoney-cli](https://github.com/thedavidweng/monarchmoney-cli) — Monarch Money CLI with JSON output, stable contracts, and multi-tier safety model (Go)
-- [money](https://github.com/thedavidweng/money) — Local-first personal finance backend with encrypted SQLite, pluggable providers, and JSON contracts
-- [blog](https://github.com/thedavidweng/blog) — Static bilingual blog built with Astro 6, hosted on Cloudflare Pages
+- [OpenKara](https://github.com/thedavidweng/OpenKara) - Desktop karaoke app: on-device AI stem separation + synced lyrics for your local music library
+- [OpenLoop](https://github.com/thedavidweng/OpenLoop) - Desktop app for local ACE-Step music generation with prompt, lyrics, playback, and export
+- [flickr-cli](https://github.com/thedavidweng/flickr-cli) - Flickr CLI with JSON-first output, 47 commands, and safety gates for photo management, upload, and backup (Go)
+- [monarchmoney-cli](https://github.com/thedavidweng/monarchmoney-cli) - Monarch Money CLI with JSON output, stable contracts, and multi-tier safety model (Go)
+- [money](https://github.com/thedavidweng/money) - Local-first personal finance backend with encrypted SQLite, pluggable providers, and JSON contracts
+- [blog](https://github.com/thedavidweng/blog) - Static bilingual blog built with Astro 6, hosted on Cloudflare Pages
 
 ### Contributed To
 
-- [cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) — Desktop TUI for switching AI model providers with API key management (Rust)
-- [wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt) — WeChat 4.0 database decryptor: memory key extraction, SQLCipher 4, real-time monitor
-- [wacli](https://github.com/openclaw/wacli) — WhatsApp CLI: sync, search, send
-- [camel-k](https://github.com/apache/camel-k) — Apache Camel K: lightweight integration platform on Kubernetes
-- [koe](https://github.com/missuo/koe) — Zero-GUI macOS voice input: hotkey, speak, corrected text pasted into any app
-- [freellmapi](https://github.com/tashfeenahmed/freellmapi) — OpenAI-compatible proxy stacking free tiers of 16 LLM providers
+- [cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - Desktop TUI for switching AI model providers with API key management (Rust)
+- [wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt) - WeChat 4.0 database decryptor: memory key extraction, SQLCipher 4, real-time monitor
+- [wacli](https://github.com/openclaw/wacli) - WhatsApp CLI: sync, search, send
+- [camel-k](https://github.com/apache/camel-k) - Apache Camel K: lightweight integration platform on Kubernetes
+- [koe](https://github.com/missuo/koe) - Zero-GUI macOS voice input: hotkey, speak, corrected text pasted into any app
+- [freellmapi](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy stacking free tiers of 16 LLM providers
+- [tokscale](https://github.com/junhoyeo/tokscale) - Token usage tracker with global leaderboard
+- [kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Open-source coding agent by Moonshot AI
 
 ### Metrics
 
@@ -32,6 +34,8 @@ Developer, designer, and content creator in Vancouver. Building open-source tool
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Remotion](https://img.shields.io/badge/Remotion-000000?style=for-the-badge&logo=remotion&logoColor=white)](https://remotion.dev/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+[![HyperFrames](https://img.shields.io/badge/HyperFrames-000000?style=for-the-badge&logo=hyperframes&logoColor=white)](https://hyperframes.co/)
 
 ### Links
 
