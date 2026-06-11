@@ -21,6 +21,7 @@ Developer, designer, and content creator in Vancouver. Building open-source tool
 - [freellmapi](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy stacking free tiers of 16 LLM providers
 - [tokscale](https://github.com/junhoyeo/tokscale) - Token usage tracker with global leaderboard
 - [kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Open-source coding agent by Moonshot AI
+- [hermes-agent](https://github.com/NousResearch/hermes-agent) - Extensible AI agent framework by NousResearch
 
 ### Metrics
 
