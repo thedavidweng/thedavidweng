@@ -10,6 +10,7 @@ Developer, designer, and content creator in Vancouver. Building open-source tool
 - [monarchmoney-cli](https://github.com/thedavidweng/monarchmoney-cli) - Monarch Money CLI with JSON output, stable contracts, and multi-tier safety model (Go)
 - [money](https://github.com/thedavidweng/money) - Local-first personal finance backend with encrypted SQLite, pluggable providers, and JSON contracts
 - [blog](https://github.com/thedavidweng/blog) - Static bilingual blog built with Astro 6, hosted on Cloudflare Pages
+- [zenodo-cli](https://github.com/thedavidweng/zenodo-cli) - Agent-friendly Zenodo CLI for record management, file upload, and full InvenioRDM API access
 
 ### Contributed To
 
@@ -20,7 +21,7 @@ Developer, designer, and content creator in Vancouver. Building open-source tool
 - [koe](https://github.com/missuo/koe) - Zero-GUI macOS voice input: hotkey, speak, corrected text pasted into any app
 - [freellmapi](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy stacking free tiers of 16 LLM providers
 - [tokscale](https://github.com/junhoyeo/tokscale) - Token usage tracker with global leaderboard
-- [kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Open-source coding agent by Moonshot AI
+- [kimi-code](https://github.com/MoonshotAI/kimi-code) - Open-source coding agent by Moonshot AI
 - [hermes-agent](https://github.com/NousResearch/hermes-agent) - Extensible AI agent framework by NousResearch
 
 ### Metrics
