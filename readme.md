@@ -11,6 +11,7 @@ Developer, designer, and content creator in Vancouver. Building open-source tool
 - [money](https://github.com/thedavidweng/money) - Local-first personal finance backend with encrypted SQLite, pluggable providers, and JSON contracts
 - [blog](https://github.com/thedavidweng/blog) - Static bilingual blog built with Astro 6, hosted on Cloudflare Pages
 - [zenodo-cli](https://github.com/thedavidweng/zenodo-cli) - Agent-friendly Zenodo CLI for record management, file upload, and full InvenioRDM API access
+- [canvas-cli](https://github.com/thedavidweng/canvas-cli) - Agent-friendly CLI for Canvas LMS with stable JSON output, automatic pagination, and mutation safety gates
 
 ### Contributed To
 
@@ -23,6 +24,7 @@ Developer, designer, and content creator in Vancouver. Building open-source tool
 - [tokscale](https://github.com/junhoyeo/tokscale) - Token usage tracker with global leaderboard
 - [kimi-code](https://github.com/MoonshotAI/kimi-code) - Open-source coding agent by Moonshot AI
 - [hermes-agent](https://github.com/NousResearch/hermes-agent) - Extensible AI agent framework by NousResearch
+- [gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager) - All-in-one enhancement suite for Google Gemini & AI Studio
 
 ### Metrics
 
