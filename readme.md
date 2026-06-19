@@ -15,6 +15,7 @@ Developer, designer, and content creator in Vancouver. Building open-source tool
 
 ### Contributed To
 
+- [ludusavi](https://github.com/mtkennerly/ludusavi) - Game save manager with best-effort Wine/Proton redirect support for cross-platform backup and restore (Rust)
 - [cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - Desktop TUI for switching AI model providers with API key management (Rust)
 - [wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt) - WeChat 4.0 database decryptor: memory key extraction, SQLCipher 4, real-time monitor
 - [wacli](https://github.com/openclaw/wacli) - WhatsApp CLI: sync, search, send
