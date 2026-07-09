@@ -8,10 +8,10 @@ Developer, designer, and content creator in Vancouver. Building open-source tool
 - [OpenLoop](https://github.com/thedavidweng/OpenLoop) - Desktop app for local ACE-Step music generation with prompt, lyrics, playback, and export
 - [sdf-flash-gui](https://github.com/thedavidweng/sdf-flash-gui) - Cross-platform GUI for optical drive firmware dump/flash on MT1959 drives
 - [strudel-tui](https://github.com/thedavidweng/strudel-tui) - Terminal-based live coding interface for Strudel with AI agent
+- [blog](https://github.com/thedavidweng/blog) - Static bilingual blog built with Astro 6, hosted on Cloudflare Pages
 - [flickr-cli](https://github.com/thedavidweng/flickr-cli) - Flickr CLI with JSON-first output, 47 commands, and safety gates for photo management, upload, and backup
 - [monarchmoney-cli](https://github.com/thedavidweng/monarchmoney-cli) - Monarch Money CLI with JSON output, stable contracts, and multi-tier safety model
 - [money](https://github.com/thedavidweng/money) - Local-first personal finance backend with encrypted SQLite, pluggable providers, and JSON contracts
-- [blog](https://github.com/thedavidweng/blog) - Static bilingual blog built with Astro 6, hosted on Cloudflare Pages
 - [zenodo-cli](https://github.com/thedavidweng/zenodo-cli) - Agent-friendly Zenodo CLI for record management, file upload, and full InvenioRDM API access
 - [canvas-cli](https://github.com/thedavidweng/canvas-cli) - Agent-friendly CLI for Canvas LMS with stable JSON output, automatic pagination, and mutation safety gates
 
