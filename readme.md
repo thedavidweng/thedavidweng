@@ -6,6 +6,8 @@ Developer, designer, and content creator in Vancouver. Building open-source tool
 
 - [OpenKara](https://github.com/thedavidweng/OpenKara) - Desktop karaoke app: on-device AI stem separation + synced lyrics for your local music library
 - [OpenLoop](https://github.com/thedavidweng/OpenLoop) - Desktop app for local ACE-Step music generation with prompt, lyrics, playback, and export
+- [sdf-flash-gui](https://github.com/thedavidweng/sdf-flash-gui) - Cross-platform GUI for optical drive firmware dump/flash on MT1959 drives (Rust/egui)
+- [strudel-tui](https://github.com/thedavidweng/strudel-tui) - Terminal-based live coding interface for Strudel with AI agent (TypeScript/Bun)
 - [flickr-cli](https://github.com/thedavidweng/flickr-cli) - Flickr CLI with JSON-first output, 47 commands, and safety gates for photo management, upload, and backup (Go)
 - [monarchmoney-cli](https://github.com/thedavidweng/monarchmoney-cli) - Monarch Money CLI with JSON output, stable contracts, and multi-tier safety model (Go)
 - [money](https://github.com/thedavidweng/money) - Local-first personal finance backend with encrypted SQLite, pluggable providers, and JSON contracts
