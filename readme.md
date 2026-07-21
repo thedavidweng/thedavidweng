@@ -17,21 +17,16 @@ Developer, designer, and content creator in Vancouver. Building open-source tool
 
 ### Contributed To
 
-- [lobehub](https://github.com/lobehub/lobehub) - LobeHub: open-source AI agent orchestration platform with 7×24 operations (TypeScript)
 - [voyager](https://github.com/Nagi-ovo/voyager) - All-in-one enhancement suite for AI Studio, Gemini, Claude & ChatGPT (TypeScript)
 - [paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile (TypeScript)
-- [DLX](https://github.com/OwO-Network/DLX) - Self-hosted translation API server (Go)
 - [ludusavi](https://github.com/mtkennerly/ludusavi) - Game save manager with best-effort Wine/Proton redirect support for cross-platform backup and restore (Rust)
 - [tokscale](https://github.com/junhoyeo/tokscale) - Token usage tracker with global leaderboard
 - [cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - Desktop TUI for switching AI model providers with API key management (Rust)
 - [kimi-code](https://github.com/MoonshotAI/kimi-code) - Open-source coding agent by Moonshot AI
 - [freellmapi](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy stacking free tiers of 16 LLM providers
-- [mieru](https://github.com/enfein/mieru) - Socks5/HTTP/HTTPS proxy to bypass censorship (Go)
 - [wacli](https://github.com/openclaw/wacli) - WhatsApp CLI: sync, search, send
 - [camel-k](https://github.com/apache/camel-k) - Apache Camel K: lightweight integration platform on Kubernetes
-- [screenize](https://github.com/syi0808/screenize) - Open-source macOS screen recording app with auto-zoom and timeline editing (Swift)
 - [koe](https://github.com/missuo/koe) - Zero-GUI macOS voice input: hotkey, speak, corrected text pasted into any app
-- [lofty-rs](https://github.com/Serial-ATA/lofty-rs) - Audio metadata library (Rust)
 - [wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt) - WeChat 4.0 database decryptor: memory key extraction, SQLCipher 4, real-time monitor
 - [hermes-agent](https://github.com/NousResearch/hermes-agent) - Extensible AI agent framework by NousResearch
 
