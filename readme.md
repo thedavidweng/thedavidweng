@@ -32,7 +32,7 @@ Developer, designer, and content creator in Vancouver. Building open-source tool
 
 ### Metrics
 
-[![Tokens Stats](https://tokens.ci/api/embed/thedavidweng/svg?color=orange&compact=1&today=1&rank=percent&tokens=full&cost=full)](https://tokens.ci/u/thedavidweng)
+[![Tokens Stats](https://tokens.ci/api/embed/thedavidweng/svg?color=orange&today=1&rank=percent&tokens=full&cost=full)](https://tokens.ci/u/thedavidweng)
 
 ### Tools
 
