@@ -17,18 +17,21 @@ Developer, designer, and content creator in Vancouver. Building open-source tool
 
 ### Contributed To
 
+- [hermes-agent](https://github.com/NousResearch/hermes-agent) - Extensible AI agent framework by NousResearch
+- [egui](https://github.com/emilk/egui) - Immediate mode GUI in Rust for web and native
 - [voyager](https://github.com/Nagi-ovo/voyager) - All-in-one enhancement suite for AI Studio, Gemini, Claude & ChatGPT (TypeScript)
-- [paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile (TypeScript)
-- [ludusavi](https://github.com/mtkennerly/ludusavi) - Game save manager with best-effort Wine/Proton redirect support for cross-platform backup and restore (Rust)
-- [tokscale](https://github.com/junhoyeo/tokscale) - Token usage tracker with global leaderboard
-- [cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - Desktop TUI for switching AI model providers with API key management (Rust)
-- [kimi-code](https://github.com/MoonshotAI/kimi-code) - Open-source coding agent by Moonshot AI
 - [freellmapi](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy stacking free tiers of 16 LLM providers
+- [paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile (TypeScript)
+- [read-frog](https://github.com/mengxi-ream/read-frog) - Language learning & translate browser extension (陪读蛙)
+- [ludusavi](https://github.com/mtkennerly/ludusavi) - Game save manager with best-effort Wine/Proton redirect support for cross-platform backup and restore (Rust)
+- [kimi-code](https://github.com/MoonshotAI/kimi-code) - Open-source coding agent by Moonshot AI
+- [tokscale](https://github.com/junhoyeo/tokscale) - Token usage tracker with global leaderboard
+- [tokens](https://github.com/missuo/tokens) - Token usage tracker CLI + web leaderboard (fork of tokscale)
+- [cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - Desktop TUI for switching AI model providers with API key management (Rust)
 - [wacli](https://github.com/openclaw/wacli) - WhatsApp CLI: sync, search, send
 - [camel-k](https://github.com/apache/camel-k) - Apache Camel K: lightweight integration platform on Kubernetes
 - [koe](https://github.com/missuo/koe) - Zero-GUI macOS voice input: hotkey, speak, corrected text pasted into any app
 - [wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt) - WeChat 4.0 database decryptor: memory key extraction, SQLCipher 4, real-time monitor
-- [hermes-agent](https://github.com/NousResearch/hermes-agent) - Extensible AI agent framework by NousResearch
 
 ### Metrics
 
