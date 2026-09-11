@@ -19,18 +19,26 @@ Developer, designer, and content creator in Vancouver. Building open-source tool
 
 - [hermes-agent](https://github.com/NousResearch/hermes-agent) - Extensible AI agent framework by NousResearch
 - [egui](https://github.com/emilk/egui) - Immediate mode GUI in Rust for web and native
-- [voyager](https://github.com/Nagi-ovo/voyager) - All-in-one enhancement suite for AI Studio, Gemini, Claude & ChatGPT (TypeScript)
 - [freellmapi](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy stacking free tiers of 16 LLM providers
+- [homebrew-cask](https://github.com/Homebrew/homebrew-cask) - Default Homebrew casks: Apple Silicon support and packaging updates
+- [voyager](https://github.com/Nagi-ovo/voyager) - All-in-one enhancement suite for AI Studio, Gemini, Claude & ChatGPT (TypeScript)
+- [cockpit-tools](https://github.com/jlcodes99/cockpit-tools) - Universal AI IDE account manager for Antigravity, Codex, Copilot, Windsurf, Kiro, Cursor & Gemini-cli
 - [paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile (TypeScript)
+- [homebrew-core](https://github.com/Homebrew/homebrew-core) - Default Homebrew formulae: tubeup, beets, mimo-code, wx-cli, kimi-code packages
+- [gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for cross-platform desktop apps built with GPUI
 - [read-frog](https://github.com/mengxi-ream/read-frog) - Language learning & translate browser extension (陪读蛙)
 - [ludusavi](https://github.com/mtkennerly/ludusavi) - Game save manager with best-effort Wine/Proton redirect support for cross-platform backup and restore (Rust)
-- [kimi-code](https://github.com/MoonshotAI/kimi-code) - Open-source coding agent by Moonshot AI
 - [tokscale](https://github.com/junhoyeo/tokscale) - Token usage tracker with global leaderboard
-- [tokens](https://github.com/missuo/tokens) - Token usage tracker CLI + web leaderboard (fork of tokscale)
 - [cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - Desktop TUI for switching AI model providers with API key management (Rust)
+- [projectm](https://github.com/projectM-visualizer/projectm) - Cross-platform Milkdrop-compatible music visualization library (C++)
+- [tinycast](https://github.com/abue-ammar/tinycast) - Tiny native macOS launcher with hotkeys and clipboard history
 - [wacli](https://github.com/openclaw/wacli) - WhatsApp CLI: sync, search, send
+- [CoverView](https://github.com/rutikwankhade/CoverView) - Create cover images for blog posts quickly
 - [camel-k](https://github.com/apache/camel-k) - Apache Camel K: lightweight integration platform on Kubernetes
+- [agent-sessions](https://github.com/jazzyalex/agent-sessions) - Local-first macOS app to browse, search, and resume AI coding-agent sessions
+- [cyberdrop-dl](https://github.com/Cyberdrop-DL/cyberdrop-dl) - Bulk asynchronous downloader for multiple file hosts (Python)
 - [koe](https://github.com/missuo/koe) - Zero-GUI macOS voice input: hotkey, speak, corrected text pasted into any app
+- [tokens](https://github.com/missuo/tokens) - Token usage tracker CLI + web leaderboard (fork of tokscale)
 - [wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt) - WeChat 4.0 database decryptor: memory key extraction, SQLCipher 4, real-time monitor
 
 ### Metrics
