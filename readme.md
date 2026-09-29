@@ -9,6 +9,9 @@ Developer, designer, and content creator in Vancouver. Building open-source tool
 - [sdf-flash-gui](https://github.com/thedavidweng/sdf-flash-gui) - Cross-platform GUI for optical drive firmware dump/flash on MT1959 drives
 - [strudel-tui](https://github.com/thedavidweng/strudel-tui) - Terminal-based live coding interface for Strudel with AI agent
 - [blog](https://github.com/thedavidweng/blog) - Static bilingual blog built with Astro 6, hosted on Cloudflare Pages
+- [jobs-cli](https://github.com/thedavidweng/jobs-cli) - Agent-native job search and application CLI for Indeed and LinkedIn
+- [qualtrics-cli](https://github.com/thedavidweng/qualtrics-cli) - Agent-friendly Qualtrics CLI with offline Markdown-to-QSF survey compiler
+- [tg-drive-cli](https://github.com/thedavidweng/tg-drive-cli) - Turn a Telegram channel into a recoverable, scriptable file tree
 - [flickr-cli](https://github.com/thedavidweng/flickr-cli) - Flickr CLI with JSON-first output, 47 commands, and safety gates for photo management, upload, and backup
 - [monarchmoney-cli](https://github.com/thedavidweng/monarchmoney-cli) - Monarch Money CLI with JSON output, stable contracts, and multi-tier safety model
 - [money](https://github.com/thedavidweng/money) - Local-first personal finance backend with encrypted SQLite, pluggable providers, and JSON contracts
@@ -21,25 +24,26 @@ Developer, designer, and content creator in Vancouver. Building open-source tool
 - [egui](https://github.com/emilk/egui) - Immediate mode GUI in Rust for web and native
 - [freellmapi](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy stacking free tiers of 16 LLM providers
 - [homebrew-cask](https://github.com/Homebrew/homebrew-cask) - Default Homebrew casks: Apple Silicon support and packaging updates
-- [voyager](https://github.com/Nagi-ovo/voyager) - All-in-one enhancement suite for AI Studio, Gemini, Claude & ChatGPT (TypeScript)
-- [cockpit-tools](https://github.com/jlcodes99/cockpit-tools) - Universal AI IDE account manager for Antigravity, Codex, Copilot, Windsurf, Kiro, Cursor & Gemini-cli
+- [voyager](https://github.com/voyager-crew/voyager) - All-in-one enhancement suite for AI Studio, Gemini, Claude & ChatGPT (TypeScript)
 - [paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile (TypeScript)
+- [cockpit-tools](https://github.com/jlcodes99/cockpit-tools) - Universal AI IDE account manager for Antigravity, Codex, Copilot, Windsurf, Kiro, Cursor & Gemini-cli
 - [homebrew-core](https://github.com/Homebrew/homebrew-core) - Default Homebrew formulae: tubeup, beets, mimo-code, wx-cli, kimi-code packages
 - [gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for cross-platform desktop apps built with GPUI
 - [read-frog](https://github.com/mengxi-ream/read-frog) - Language learning & translate browser extension (陪读蛙)
+- [tinycast](https://github.com/abue-ammar/tinycast) - Tiny native macOS launcher with hotkeys and clipboard history
 - [ludusavi](https://github.com/mtkennerly/ludusavi) - Game save manager with best-effort Wine/Proton redirect support for cross-platform backup and restore (Rust)
 - [tokscale](https://github.com/junhoyeo/tokscale) - Token usage tracker with global leaderboard
 - [cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - Desktop TUI for switching AI model providers with API key management (Rust)
 - [projectm](https://github.com/projectM-visualizer/projectm) - Cross-platform Milkdrop-compatible music visualization library (C++)
-- [tinycast](https://github.com/abue-ammar/tinycast) - Tiny native macOS launcher with hotkeys and clipboard history
 - [wacli](https://github.com/openclaw/wacli) - WhatsApp CLI: sync, search, send
 - [CoverView](https://github.com/rutikwankhade/CoverView) - Create cover images for blog posts quickly
 - [camel-k](https://github.com/apache/camel-k) - Apache Camel K: lightweight integration platform on Kubernetes
 - [agent-sessions](https://github.com/jazzyalex/agent-sessions) - Local-first macOS app to browse, search, and resume AI coding-agent sessions
 - [cyberdrop-dl](https://github.com/Cyberdrop-DL/cyberdrop-dl) - Bulk asynchronous downloader for multiple file hosts (Python)
+- [herdrm](https://github.com/missuo/herdrm) - Native macOS console for herdr coding agents and live terminals
+- [Heeler](https://github.com/ZingerLittleBee/Heeler) - Native iOS agent console for herdr over SSH with pairing and push
 - [koe](https://github.com/missuo/koe) - Zero-GUI macOS voice input: hotkey, speak, corrected text pasted into any app
 - [tokens](https://github.com/missuo/tokens) - Token usage tracker CLI + web leaderboard (fork of tokscale)
-- [wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt) - WeChat 4.0 database decryptor: memory key extraction, SQLCipher 4, real-time monitor
 
 ### Metrics
 
