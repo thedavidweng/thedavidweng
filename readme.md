@@ -28,39 +28,38 @@ Developer, designer, and content creator in Vancouver. Building open-source tool
 
 ### Contributed To
 
-- [ATV-Bilibili-demo](https://github.com/yichengchen/ATV-Bilibili-demo) - Bilibili client for Apple TV: multi-CDN concurrent Range downloads, clear-watched in Watch Later, long-press feed actions ([#222](https://github.com/yichengchen/ATV-Bilibili-demo/pull/222), [#223](https://github.com/yichengchen/ATV-Bilibili-demo/pull/223), [#224](https://github.com/yichengchen/ATV-Bilibili-demo/pull/224))
-- [sharp](https://github.com/lovell/sharp) - High performance Node.js image processing: autoOrient docs ([#4587](https://github.com/lovell/sharp/pull/4587))
-- [magpie](https://github.com/yetone/magpie) - Menu bar model switcher for coding agents: Factory/Droid fix ([#519](https://github.com/yetone/magpie/pull/519))
-- [winget-pkgs](https://github.com/microsoft/winget-pkgs) - Windows Package Manager manifests: OpenKara releases ([#349934](https://github.com/microsoft/winget-pkgs/pull/349934) and later)
-- [openwrt/packages](https://github.com/openwrt/packages) - OpenWrt community packages: Tailscale 1.102.3 update ([#30600](https://github.com/openwrt/packages/pull/30600))
-- [afilmory](https://github.com/Afilmory/afilmory) - Photo gallery for photographers: i18n coverage and dependency updates ([#271](https://github.com/Afilmory/afilmory/pull/271), [#277](https://github.com/Afilmory/afilmory/pull/277))
-- [atvloadly](https://github.com/bitxeno/atvloadly) - Sideload IPAs to Apple TV: Assets.car and install socket fixes ([#182](https://github.com/bitxeno/atvloadly/pull/182), [#184](https://github.com/bitxeno/atvloadly/pull/184))
-- [deck-tailscale](https://github.com/tailscale-dev/deck-tailscale) - Tailscale for the Steam Deck: update and uninstall docs ([#66](https://github.com/tailscale-dev/deck-tailscale/pull/66), [#70](https://github.com/tailscale-dev/deck-tailscale/pull/70))
-- [gh-secure](https://github.com/GitHubSecurityLab/gh-secure) - GitHub Security Lab CLI extension: support profile README repos ([#18](https://github.com/GitHubSecurityLab/gh-secure/pull/18))
-- [beets](https://github.com/beetbox/beets) - Music library manager: Homebrew install docs ([#6747](https://github.com/beetbox/beets/pull/6747))
-- [kimi-code](https://github.com/MoonshotAI/kimi-code) - Kimi Code CLI: Homebrew install docs ([#531](https://github.com/MoonshotAI/kimi-code/pull/531))
-- [mieru](https://github.com/enfein/mieru) - SOCKS5/HTTP proxy: troubleshooting quick-reference docs ([#275](https://github.com/enfein/mieru/pull/275))
-
+- [ATV-Bilibili-demo](https://github.com/yichengchen/ATV-Bilibili-demo) - Bilibili client for Apple TV
+- [sharp](https://github.com/lovell/sharp) - High performance Node.js image processing
+- [magpie](https://github.com/yetone/magpie) - Menu bar model switcher for coding agents
+- [winget-pkgs](https://github.com/microsoft/winget-pkgs) - Windows Package Manager manifests
+- [openwrt/packages](https://github.com/openwrt/packages) - OpenWrt community packages
+- [afilmory](https://github.com/Afilmory/afilmory) - Photo gallery for photographers
+- [atvloadly](https://github.com/bitxeno/atvloadly) - Sideload IPAs to Apple TV
+- [deck-tailscale](https://github.com/tailscale-dev/deck-tailscale) - Tailscale for the Steam Deck
+- [gh-secure](https://github.com/GitHubSecurityLab/gh-secure) - GitHub Security Lab CLI extension
+- [beets](https://github.com/beetbox/beets) - Music library manager
+- [kimi-code](https://github.com/MoonshotAI/kimi-code) - Kimi Code CLI
+- [mieru](https://github.com/enfein/mieru) - SOCKS5/HTTP proxy
 - [hermes-agent](https://github.com/NousResearch/hermes-agent) - Extensible AI agent framework by NousResearch
 - [egui](https://github.com/emilk/egui) - Immediate mode GUI in Rust for web and native
 - [freellmapi](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy stacking free tiers of 16 LLM providers
-- [homebrew-cask](https://github.com/Homebrew/homebrew-cask) - Default Homebrew casks: Apple Silicon support and packaging updates
-- [voyager](https://github.com/voyager-crew/voyager) - All-in-one enhancement suite for AI Studio, Gemini, Claude & ChatGPT (TypeScript)
-- [paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile (TypeScript)
+- [homebrew-cask](https://github.com/Homebrew/homebrew-cask) - Default Homebrew casks
+- [voyager](https://github.com/voyager-crew/voyager) - All-in-one enhancement suite for AI Studio, Gemini, Claude & ChatGPT
+- [paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [cockpit-tools](https://github.com/jlcodes99/cockpit-tools) - Universal AI IDE account manager for Antigravity, Codex, Copilot, Windsurf, Kiro, Cursor & Gemini-cli
-- [homebrew-core](https://github.com/Homebrew/homebrew-core) - Default Homebrew formulae: tubeup, beets, mimo-code, wx-cli, kimi-code packages
+- [homebrew-core](https://github.com/Homebrew/homebrew-core) - Default Homebrew formulae
 - [gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for cross-platform desktop apps built with GPUI
 - [read-frog](https://github.com/mengxi-ream/read-frog) - Language learning & translate browser extension (陪读蛙)
 - [tinycast](https://github.com/abue-ammar/tinycast) - Tiny native macOS launcher with hotkeys and clipboard history
-- [ludusavi](https://github.com/mtkennerly/ludusavi) - Game save manager with best-effort Wine/Proton redirect support for cross-platform backup and restore (Rust)
+- [ludusavi](https://github.com/mtkennerly/ludusavi) - Game save manager with best-effort Wine/Proton redirect support for cross-platform backup and restore
 - [tokscale](https://github.com/junhoyeo/tokscale) - Token usage tracker with global leaderboard
-- [cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - Desktop TUI for switching AI model providers with API key management (Rust)
-- [projectm](https://github.com/projectM-visualizer/projectm) - Cross-platform Milkdrop-compatible music visualization library (C++)
+- [cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - Desktop TUI for switching AI model providers with API key management
+- [projectm](https://github.com/projectM-visualizer/projectm) - Cross-platform Milkdrop-compatible music visualization library
 - [wacli](https://github.com/openclaw/wacli) - WhatsApp CLI: sync, search, send
 - [CoverView](https://github.com/rutikwankhade/CoverView) - Create cover images for blog posts quickly
 - [camel-k](https://github.com/apache/camel-k) - Apache Camel K: lightweight integration platform on Kubernetes
 - [agent-sessions](https://github.com/jazzyalex/agent-sessions) - Local-first macOS app to browse, search, and resume AI coding-agent sessions
-- [cyberdrop-dl](https://github.com/Cyberdrop-DL/cyberdrop-dl) - Bulk asynchronous downloader for multiple file hosts (Python)
+- [cyberdrop-dl](https://github.com/Cyberdrop-DL/cyberdrop-dl) - Bulk asynchronous downloader for multiple file hosts
 - [herdrm](https://github.com/missuo/herdrm) - Native macOS console for herdr coding agents and live terminals
 - [Heeler](https://github.com/ZingerLittleBee/Heeler) - Native iOS agent console for herdr over SSH with pairing and push
 - [koe](https://github.com/missuo/koe) - Zero-GUI macOS voice input: hotkey, speak, corrected text pasted into any app
