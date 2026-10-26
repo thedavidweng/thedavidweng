@@ -9,9 +9,8 @@
 - Every item links its PR(s). Separate several items in one entry with `; `.
 - For very large sets (Homebrew), link the main PRs, then end with `and [more](https://github.com/OWNER/REPO/pulls?q=is%3Apr+author%3Athedavidweng+is%3Amerged)`.
 - Substantive = a real feature, bug fix, or meaningful code/build/CI/packaging work (a NEW Homebrew formula/cask for someone else's software counts). Not substantive: docs/README edits (check the diff, not just the title) and mechanical changes: pure version bumps, dependency/toolchain updates, upstream syncs, lockfile/manifest refreshes, lint/advisory ignores, behavior-neutral deprecation migrations, build-config moves, CI flake retries.
-- A repo is listed only if it has at least one substantive merged PR. Never list a repo whose only contributions are docs or mechanical (e.g. sharp, beets, kimi-code, mieru, gpui-kit, deck-tailscale, openwrt/packages, cockpit-tools).
-- Drop mechanical PRs entirely, even in listed repos; only docs PRs get the trailing `; docs updates (...)` item.
-- In a listed repo, mention docs-only PRs (including trivial comment/style fixes) as one short trailing item: `; docs updates ([#1](pr-url), [#2](pr-url))`.
+- A repo is listed only if it has at least one substantive merged PR. Never list a repo whose contributions are ALL trivial (docs or mechanical) (e.g. sharp, beets, kimi-code, mieru, gpui-kit, deck-tailscale, openwrt/packages, cockpit-tools).
+- Trivial PRs (docs or mechanical) never qualify a repo, but in a listed repo they are all mentioned in ONE brief trailing item, after the substantive items, PRs in ascending number: `; docs updates (...)` if all docs, `; maintenance (...)` if all mechanical, `; docs and maintenance (...)` if mixed.
 - Never list submissions of the user's own software (e.g. winget-pkgs manifests for OpenKara, Homebrew casks/formulae for the user's own apps). Packaging other people's software in Homebrew is fine.
 - Entry format:
   `- [repo](https://github.com/OWNER/REPO) <badge> - Contribution ([#1](pr-url)); other contribution ([#2](pr-url))`
