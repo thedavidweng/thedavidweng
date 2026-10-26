@@ -8,7 +8,9 @@
 - Describe what the user contributed, not the project. Use sentence-case noun phrases (e.g. "Factory requests opened as Droid fix").
 - Every item links its PR(s). Separate several items in one entry with `; `.
 - For very large sets (Homebrew), link the main PRs, then end with `and [more](https://github.com/OWNER/REPO/pulls?q=is%3Apr+author%3Athedavidweng+is%3Amerged)`.
-- A repo is listed only if it has at least one substantive (non-docs) merged PR. Never list a repo whose only contributions are docs/README PRs (e.g. sharp, beets, kimi-code, mieru, gpui-kit).
+- Substantive = a real feature, bug fix, or meaningful code/build/CI/packaging work (a NEW Homebrew formula/cask for someone else's software counts). Not substantive: docs/README edits (check the diff, not just the title) and mechanical changes: pure version bumps, dependency/toolchain updates, upstream syncs, lockfile/manifest refreshes, lint/advisory ignores, behavior-neutral deprecation migrations, build-config moves, CI flake retries.
+- A repo is listed only if it has at least one substantive merged PR. Never list a repo whose only contributions are docs or mechanical (e.g. sharp, beets, kimi-code, mieru, gpui-kit, deck-tailscale, openwrt/packages, cockpit-tools).
+- Drop mechanical PRs entirely, even in listed repos; only docs PRs get the trailing `; docs updates (...)` item.
 - In a listed repo, mention docs-only PRs (including trivial comment/style fixes) as one short trailing item: `; docs updates ([#1](pr-url), [#2](pr-url))`.
 - Never list submissions of the user's own software (e.g. winget-pkgs manifests for OpenKara, Homebrew casks/formulae for the user's own apps). Packaging other people's software in Homebrew is fine.
 - Entry format:
@@ -26,7 +28,7 @@ GitHub keeps `align="absmiddle"`, so the single-tone grey badge sits on the text
 
 ## Sorting
 
-- Contributed To: number of the user's substantive merged PRs in the repo (docs PRs not counted), descending; then stars, descending.
+- Contributed To: number of the user's substantive merged PRs in the repo (docs and mechanical PRs not counted), descending; then stars, descending.
 - Own projects: the user's commit count on the default branch (GraphQL `history(author: {id})`), descending; then stars, descending. Sort within each section.
 
 ## Own projects
