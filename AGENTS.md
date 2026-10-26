@@ -8,7 +8,9 @@
 - Describe what the user contributed, not the project. Use sentence-case noun phrases (e.g. "Factory requests opened as Droid fix").
 - Every item links its PR(s). Separate several items in one entry with `; `.
 - For very large sets (Homebrew), link the main PRs, then end with `and [more](https://github.com/OWNER/REPO/pulls?q=is%3Apr+author%3Athedavidweng+is%3Amerged)`.
-- Exclude low-value docs/README-only PRs and submissions of the user's own software (e.g. winget-pkgs manifests for OpenKara, Homebrew casks/formulae for the user's own apps). Packaging other people's software in Homebrew is fine.
+- A repo is listed only if it has at least one substantive (non-docs) merged PR. Never list a repo whose only contributions are docs/README PRs (e.g. sharp, beets, kimi-code, mieru, gpui-kit).
+- In a listed repo, mention docs-only PRs (including trivial comment/style fixes) as one short trailing item: `; docs updates ([#1](pr-url), [#2](pr-url))`.
+- Never list submissions of the user's own software (e.g. winget-pkgs manifests for OpenKara, Homebrew casks/formulae for the user's own apps). Packaging other people's software in Homebrew is fine.
 - Entry format:
   `- [repo](https://github.com/OWNER/REPO) <badge> - Contribution ([#1](pr-url)); other contribution ([#2](pr-url))`
 
@@ -24,7 +26,7 @@ GitHub keeps `align="absmiddle"`, so the single-tone grey badge sits on the text
 
 ## Sorting
 
-- Contributed To: number of the user's substantive merged PRs in the repo (excluding the trivial ones above), descending; then stars, descending.
+- Contributed To: number of the user's substantive merged PRs in the repo (docs PRs not counted), descending; then stars, descending.
 - Own projects: the user's commit count on the default branch (GraphQL `history(author: {id})`), descending; then stars, descending. Sort within each section.
 
 ## Own projects
